@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-web-delivery-dart-mobile",
+  "capabilityKey": "liberusoftware/module-cms-web-delivery",
+  "presentation": "dart-mobile",
+  "package": "module_cms_web_delivery_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/cms/nextjs/web-delivery.md",
+  "presentationPlan": "projects/cms/features/web-delivery.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
